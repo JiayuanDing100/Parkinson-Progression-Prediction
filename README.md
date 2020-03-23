@@ -3,7 +3,7 @@ Modeling Parkinson Disease Progression using PPMI dataset (https://www.ppmi-info
 
 
 ## Data Exploration
-#### Feature Selection
+### Feature Selection
 We select features based on UPDRS criterion, which refers to Unified 
 Parkinson Disease Rating Scale, 
 and it is a rating tool used to gauge the course of Parkinson’s 
@@ -33,7 +33,7 @@ table for details.
 
 （This form is updated in real time based on the collected features）
 
-#### Data Summary
+### Data Summary
 
 Totally 4784 samples, 1674 patients
 
