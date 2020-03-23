@@ -74,7 +74,7 @@ Totally 4784 samples, 1674 patients
 
 ### 3. True Label: Hoehn and Yahr scale
 The Hoehn and Yahr scale is a commonly used system for describing how the 
-symptoms of Parkinson's disease progress. Each sample in this dataset is
+symptoms of Parkinson's disease progress. Each sample (equal to each visit) in this dataset is
 assigned with Hoehn and Yahr scale value ranging from 0 to 5 as a true label.
 
 STAGE 0: NO SIGN OF DISEASE
@@ -94,8 +94,6 @@ STAGE 5: WHEELCHAIR BOUND OR BEDRIDDEN
 ### 1. Linear Regression
 #### a) Experiment 1
 Data selection: choose patients as input with more than 4 total visit times.
-
-Each visit is assigned with a true label (**Hoehn and Yahr scale**) ranging from 0 to 5
 
 **Input**: the first three visits (v1, v2, v3) and each visit with around 370 features
 
