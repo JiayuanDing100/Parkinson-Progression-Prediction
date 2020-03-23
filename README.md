@@ -78,6 +78,8 @@ Totally 4784 samples, 1674 patients
 Data selection: choose patients as input with more than 4 total visit times.
 
 Each visit is assigned a true label (**Hoehn and Yahr scale**) ranging from 0 to 5
+(The Hoehn and Yahr scale is a commonly used system for describing how the 
+symptoms of Parkinson's disease progress.)
 
 **Input**: the first three visits (v1, v2, v3) and each visit with around 370 features
 
