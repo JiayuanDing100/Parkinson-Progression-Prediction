@@ -49,7 +49,7 @@ Totally 4784 samples, 1674 patients
 | 8 | 360 | 45  |
 | Totally  | 4784 | 1674 |
 
-<<<<<<< HEAD
+
 | stage_category | samples_num | 
 | --- | --- |
 | 0 | 1227 |  
