@@ -103,7 +103,9 @@ For example: assuming one patient has 6 total visit times, then samples of this
 patient should be 3:
 
 Input: V1, V2, V3 Output: V4
+
 Input: V2, V3, V4 Output: V5
+
 Input: V3, V4, V5 Output: V6
 
 | visit_times | patients_num | input_samples_num |
