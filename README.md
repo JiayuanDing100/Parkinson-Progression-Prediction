@@ -48,3 +48,8 @@ Totally 4784 samples, 1674 patients
 | 7 | 714 | 102 |
 | 8 | 360 | 45  |
 | Totally  | 4784 | 1674 |
+
+
+| a | b | d |
+|---|---|---|
+| 1 | <div style="width: 150pt">very very very very very lonng long long long long text</div>| 3 |
