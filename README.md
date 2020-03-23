@@ -99,6 +99,13 @@ Data selection: choose patients as input with more than 4 total visit times.
 
 **Output**: **Hoehn and Yahr scale** of the next visit (v4)
 
+For example: assuming one patient has 6 total visit times, then samples of this 
+patient should be 3:
+
+Input: V1, V2, V3 Output: V4
+Input: V2, V3, V4 Output: V5
+Input: V3, V4, V5 Output: V6
+
 | visit_times | patients_num | input_samples_num |
 | --- | --- |--- |
 | 4 | 128 | 128 |
