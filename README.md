@@ -3,7 +3,8 @@ Modeling Parkinson Disease Progression using PPMI dataset (https://www.ppmi-info
 
 
 ## Data Exploration
-The UPDRS scale refers to Unified Parkinson Disease Rating Scale, 
+We select features based on UPDRS criterion, which refers to Unified 
+Parkinson Disease Rating Scale, 
 and it is a rating tool used to gauge the course of Parkinson’s 
 disease in patients. It has four parts, and each part has multiple
 points that are individually scored. Please refer to the following
