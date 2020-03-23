@@ -50,6 +50,4 @@ Totally 4784 samples, 1674 patients
 | Totally  | 4784 | 1674 |
 
 
-| a | b | d |
-|---|---|---|
-| 1 | very very very very very lonng long long long long text| 3 |
+
