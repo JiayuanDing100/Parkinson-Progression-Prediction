@@ -48,3 +48,32 @@ Totally 4784 samples, 1674 patients
 | 7 | 714 | 102 |
 | 8 | 360 | 45  |
 | Totally  | 4784 | 1674 |
+
+| stage_category | samples_num | 
+| --- | --- |
+| 0 | 1227 |  
+| 1 | 865 |  
+| 2 | 2386 |  
+| 3 | 246 |  
+| 4 | 47 | 
+| 5 | 13 |  
+| Totally  | 4784 | 
+
+
+0.0    685
+2.0    543
+1.0    359
+3.0     66
+4.0     18
+5.0      3
+
+The stage category for the first visit:
+| stage_category | patients_num | 
+| --- | --- |
+| 0 | 685 |  
+| 1 | 359 |  
+| 2 | 543 |  
+| 3 | 66 |  
+| 4 | 18 | 
+| 5 | 3 |  
+| Totally  | 1674 | 
