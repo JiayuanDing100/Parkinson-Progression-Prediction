@@ -9,23 +9,24 @@ disease in patients. It has four parts, and each part has multiple
 points that are individually scored. Please refer to the following
 table for details.  
 
-| Part 1: Intellectual function, mood, behavior | Availabel in current dataset | Part 2: Activities of daily living | Availabel in current dataset | Part 3:Motor examination | Availabel in current dataset |  Part 4:Motor complications | Availabel in current dataset |
+
+| Part 1: Intellectual function, mood, behavior | Available in current dataset | Part 2: Activities of daily living | Available in current dataset | Part 3:Motor examination | Available in current dataset |  Part 4:Motor complications | Available in current dataset |
 | --- | --- | --- |--- |--- |--- |--- |--- |
-| Forgetfulness, disorientation in time and space | hi | Speech: difficulty being understood  |
-| Vivid dreaming | 586 | Salivation and drooling  |
-| Hallucinations  | 564 | Chewing and swallowing  |
-| Delusions and paranoia  | 512 | Cutting food |
-| Depressed mood | 525 | Small handwriting |
-| Anxious mood  | 852 | Needing help with getting dressed, buttons, arms in sleeves  |
-| Apathy | 714 | Requires assistance with bathing, brushing teeth  |
-| Features of dopamine dysregulation syndrome | 360 | Trouble doing hobbies and other activities  |
-| Nighttime sleep problems | 714 | Difficulties with turning in bed |
-| Daytime sleepiness | 714 | Tremor impact on activities |
-| Pain and other sensations  | 714 | Getting in and out of bed  |
-| Urinary problems | 714 | Walking, balance, falling |
-| Constipation problems | 714 | Freezing |
-| Lightheadedness on standing | 714 |  |
-| Fatigue | 714 |  |
+| Forgetfulness, disorientation in time and space | hi | Speech: difficulty being understood  | 23 | Speech – volume, diction | 24 | Dyskinesia, including time spent with dyskinesia, functional impact of dyskinesia, and painful off-state dystonia | 25|
+| Vivid dreaming | 586 | Salivation and drooling  | 23 | Reduced facial expressions | 24|  Motor fluctuations, including time spent in the off state, functional impact of fluctuations, and complexity of motor fluctuations |
+| Hallucinations  | 564 | Chewing and swallowing  | 23 | Rigidity | | | | 
+| Delusions and paranoia  | 512 | Cutting food | 23 | Finger tapping | | | |
+| Depressed mood | 525 | Small handwriting | 23 | Slowed hand movements | | | |
+| Anxious mood  | 852 | Needing help with getting dressed, buttons, arms in sleeves  | 23 | Rapid alternating movements of hands (pronation-supination) | | | |
+| Apathy | 714 | Requires assistance with bathing, brushing teeth  | 23 | Toe tapping | | | |
+| Features of dopamine dysregulation syndrome | 360 | Trouble doing hobbies and other activities  | 23 | Leg agility – when tapping heel on the ground, is it slowed, early fatiguing | | | |
+| Nighttime sleep problems | 714 | Difficulties with turning in bed | 23 | Arising from a chair – degree of difficulty | | | |
+| Daytime sleepiness | 714 | Tremor impact on activities | 23 | Gait – shuffling, walking with difficulty | | | |
+| Pain and other sensations  | 714 | Getting in and out of bed  | 23 | Freezing of gait | | | |
+| Urinary problems | 714 | Walking, balance, falling | 23 | Postural stability – difficulty recovering balance | | | |
+| Constipation problems | 714 | Freezing | 23 | Posture – stooped | | | |
+| Lightheadedness on standing | 714 |  | 23 | Global spontaneity of movement (body bradykinesia) – slowness of movement, lack of movement | | | |
+| Fatigue | 714 |  | 23 | Tremor at rest | | | |
 
 
 Totally 4784 samples, 1674 patients
