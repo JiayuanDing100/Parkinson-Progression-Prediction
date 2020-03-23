@@ -79,9 +79,9 @@ Data selection: choose patients as input with more than 4 total visit times.
 
 Each visit is assigned a true label (**Hoehn and Yahr scale**) ranging from 0 to 5
 
-Input: the first three visits (v1, v2, v3) and each visit with around 370 features
+**Input**: the first three visits (v1, v2, v3) and each visit with around 370 features
 
-Output: **Hoehn and Yahr scale** of the next visit (v4)
+**Output**: **Hoehn and Yahr scale** of the next visit (v4)
 
 | visit_times | patients_num | input_samples_num |
 | --- | --- |--- |
