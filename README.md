@@ -31,7 +31,7 @@ table for details.
 | Fatigue |  |  |  | Tremor at rest |Yes | | |
 
 
-（This form is updated in real time based on the collected features）
+（This table is updated in real time based on the collected features）
 
 ### Data Summary
 
@@ -49,7 +49,7 @@ Totally 4784 samples, 1674 patients
 | 8 | 360 | 45  |
 | Totally  | 4784 | 1674 |
 
-<<<<<<< HEAD
+
 | stage_category | samples_num | 
 | --- | --- |
 | 0 | 1227 |  
@@ -99,7 +99,3 @@ The stage category for the first visit:
 | 4 | 18 | 
 | 5 | 3 |  
 | Totally  | 1674 | 
-=======
-
-
->>>>>>> 83867cdd4c3b80c07731af45058dc84794b23e09
