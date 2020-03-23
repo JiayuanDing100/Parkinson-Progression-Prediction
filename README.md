@@ -28,6 +28,8 @@ table for details.
 | Constipation problems |  | Freezing | Yes | Posture – stooped | Yes | | |
 | Lightheadedness on standing | Yes |  |  | Global spontaneity of movement (body bradykinesia) – slowness of movement, lack of movement | Yes | | |
 | Fatigue |  |  |  | Tremor at rest |Yes | | |
+
+
 （This form is updated in real time based on the collected features）
 
 Totally 4784 samples, 1674 patients
