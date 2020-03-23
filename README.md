@@ -73,3 +73,4 @@ Totally 4784 samples, 1674 patients
 | Totally  | 1674 | |
 
 ## Modeling
+### 1. Linear Regression
