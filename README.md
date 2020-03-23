@@ -15,7 +15,7 @@ table for details.
 | Part 1: Intellectual function, mood, behavior | Available in current dataset | Part 2: Activities of daily living | Available in current dataset | Part 3:Motor examination | Available in current dataset |  Part 4:Motor complications | Available in current dataset |
 | --- | --- | --- |--- |--- |--- |--- |--- |
 | Forgetfulness, disorientation in time and space |  | Speech: difficulty being understood  | Yes | Speech – volume, diction | Yes | Dyskinesia, including time spent with dyskinesia, functional impact of dyskinesia, and painful off-state dystonia | Yes|
-| Vivid dreaming | Yes | Salivation and drooling  | 23 | Reduced facial expressions | Yes|  Motor fluctuations, including time spent in the off state, functional impact of fluctuations, and complexity of motor fluctuations | Yes |
+| Vivid dreaming | Yes | Salivation and drooling  |  | Reduced facial expressions | Yes|  Motor fluctuations, including time spent in the off state, functional impact of fluctuations, and complexity of motor fluctuations | Yes |
 | Hallucinations  | Yes | Chewing and swallowing  | Yes | Rigidity |Yes | | | 
 | Delusions and paranoia  |  | Cutting food |  | Finger tapping |Yes | | |
 | Depressed mood | Yes | Small handwriting | Yes | Slowed hand movements |Yes | | |
