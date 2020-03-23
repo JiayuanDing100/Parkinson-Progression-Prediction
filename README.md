@@ -82,12 +82,6 @@ The stage category for the first visit:
 | 5 | 3 |  
 | Totally  | 1674 | 
 
-0.0    685
-2.0    543
-1.0    359
-3.0     66
-4.0     18
-5.0      3
 
 The stage category for the first visit:
 | stage_category | first_visit(patients_num) |  last_visit(patients_num) |
