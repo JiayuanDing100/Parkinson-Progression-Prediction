@@ -12,21 +12,21 @@ table for details.
 
 | Part 1: Intellectual function, mood, behavior | Available in current dataset | Part 2: Activities of daily living | Available in current dataset | Part 3:Motor examination | Available in current dataset |  Part 4:Motor complications | Available in current dataset |
 | --- | --- | --- |--- |--- |--- |--- |--- |
-| Forgetfulness, disorientation in time and space |  | Speech: difficulty being understood  | 23 | Speech – volume, diction | 24 | Dyskinesia, including time spent with dyskinesia, functional impact of dyskinesia, and painful off-state dystonia | 25|
-| Vivid dreaming | Yes | Salivation and drooling  | 23 | Reduced facial expressions | 24|  Motor fluctuations, including time spent in the off state, functional impact of fluctuations, and complexity of motor fluctuations |
-| Hallucinations  | Yes | Chewing and swallowing  | 23 | Rigidity | | | | 
-| Delusions and paranoia  | 512 | Cutting food | 23 | Finger tapping | | | |
-| Depressed mood | Yes | Small handwriting | 23 | Slowed hand movements | | | |
-| Anxious mood  | Yes | Needing help with getting dressed, buttons, arms in sleeves  | 23 | Rapid alternating movements of hands (pronation-supination) | | | |
-| Apathy | Yes | Requires assistance with bathing, brushing teeth  | 23 | Toe tapping | | | |
-| Features of dopamine dysregulation syndrome | Yes | Trouble doing hobbies and other activities  | 23 | Leg agility – when tapping heel on the ground, is it slowed, early fatiguing | | | |
-| Nighttime sleep problems |  | Difficulties with turning in bed | 23 | Arising from a chair – degree of difficulty | | | |
-| Daytime sleepiness |  | Tremor impact on activities | 23 | Gait – shuffling, walking with difficulty | | | |
-| Pain and other sensations  |  | Getting in and out of bed  | 23 | Freezing of gait | | | |
-| Urinary problems | Yes | Walking, balance, falling | 23 | Postural stability – difficulty recovering balance | | | |
-| Constipation problems |  | Freezing | 23 | Posture – stooped | | | |
-| Lightheadedness on standing |  |  | 23 | Global spontaneity of movement (body bradykinesia) – slowness of movement, lack of movement | | | |
-| Fatigue |  |  | 23 | Tremor at rest | | | |
+| Forgetfulness, disorientation in time and space |  | Speech: difficulty being understood  | Yes | Speech – volume, diction | Yes | Dyskinesia, including time spent with dyskinesia, functional impact of dyskinesia, and painful off-state dystonia | Yes|
+| Vivid dreaming | Yes | Salivation and drooling  | 23 | Reduced facial expressions | Yes|  Motor fluctuations, including time spent in the off state, functional impact of fluctuations, and complexity of motor fluctuations | Yes |
+| Hallucinations  | Yes | Chewing and swallowing  | Yes | Rigidity |Yes | | | 
+| Delusions and paranoia  |  | Cutting food |  | Finger tapping |Yes | | |
+| Depressed mood | Yes | Small handwriting | Yes | Slowed hand movements |Yes | | |
+| Anxious mood  | Yes | Needing help with getting dressed, buttons, arms in sleeves  | Yes | Rapid alternating movements of hands (pronation-supination) | Yes | | |
+| Apathy | Yes | Requires assistance with bathing, brushing teeth  |  | Toe tapping | Yes | | |
+| Features of dopamine dysregulation syndrome | Yes | Trouble doing hobbies and other activities  | Yes | Leg agility – when tapping heel on the ground, is it slowed, early fatiguing | Yes | | |
+| Nighttime sleep problems |  | Difficulties with turning in bed | Yes | Arising from a chair – degree of difficulty | Yes | | |
+| Daytime sleepiness |  | Tremor impact on activities | Yes | Gait – shuffling, walking with difficulty | Yes | | |
+| Pain and other sensations  |  | Getting in and out of bed  | Yes | Freezing of gait | Yes | | |
+| Urinary problems | Yes | Walking, balance, falling | Yes | Postural stability – difficulty recovering balance | Yes | | |
+| Constipation problems |  | Freezing | Yes | Posture – stooped | Yes | | |
+| Lightheadedness on standing | Yes |  |  | Global spontaneity of movement (body bradykinesia) – slowness of movement, lack of movement | Yes | | |
+| Fatigue |  |  |  | Tremor at rest |Yes | | |
 
 
 Totally 4784 samples, 1674 patients
