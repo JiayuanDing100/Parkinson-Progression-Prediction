@@ -74,3 +74,17 @@ Totally 4784 samples, 1674 patients
 
 ## Modeling
 ### 1. Linear Regression
+#### a) Experiment 1
+Data selection: choose patients as input with more than 4 total visit times.
+Each visit is assigned a true label (**Hoehn and Yahr scale**)
+Input: the first three visits (v1, v2, v3) and each visit with around 370 features
+Output: the next visit (v4)
+
+| visit_times | patients_num | input_samples_num |
+| --- | --- |--- |
+| 4 | 128 | 128 |
+| 5 | 105 | 210 |
+| 6 | 142 | 426 |
+| 7 | 102 | 408 |
+| 8 | 45  | 225 |
+| Totally  | 522 patients | 1397 input samples |
