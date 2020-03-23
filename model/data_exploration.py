@@ -19,3 +19,23 @@ total_times, sampels, patients
 4    512 128
 8    360 45
 """
+print("NHY:",df['NHY'].value_counts())
+"""
+2.0    2386
+0.0    1227
+1.0     865
+3.0     246
+4.0      47
+5.0      13
+"""
+
+first_time_df=df[df['VISIT_ID']==1]
+print("NHY:",first_time_df['NHY'].value_counts())
+"""
+0.0    685
+2.0    543
+1.0    359
+3.0     66
+4.0     18
+5.0      3
+"""
