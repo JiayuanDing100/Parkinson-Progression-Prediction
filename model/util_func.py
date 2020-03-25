@@ -91,6 +91,8 @@ def timeseries_train_test_split(X, y, test_size):
    return X_train, X_test, y_train, y_test
 
 def mean_absolute_percentage_error(y_true, y_pred):
+
+
    return np.mean(np.abs((y_true - y_pred) / y_true)) * 100
 
 def plotModelResults(model, X_train, X_test, y_train, y_test, plot_intervals=False, plot_anomalies=False):
