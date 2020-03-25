@@ -95,9 +95,9 @@ STAGE 5: WHEELCHAIR BOUND OR BEDRIDDEN
 #### a) Experiment 1
 Data selection: choose patients as input with more than 4 total visit times.
 
-**Input**: the first three visits (v1, v2, v3) and each visit with around 370 features
+**Input**: the first three visits (Vt-2, Vt-1, Vt) and each visit with around 370 features
 
-**Output**: **Hoehn and Yahr scale** of the next visit (v4)
+**Output**: **Hoehn and Yahr scale** of the next visit (Vt+1)
 
 For example: assuming one patient has 6 total visit times, then samples of this 
 patient should be 3:
