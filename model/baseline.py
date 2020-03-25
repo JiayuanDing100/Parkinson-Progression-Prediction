@@ -15,7 +15,7 @@ X,y = prepare_data(visit_time_thres=4)
 
 X_train, X_test, y_train, y_test = timeseries_train_test_split(X, y, 0.2)
 
-
+#### Logistic Regression
 logreg_TS = LogisticRegression(multi_class='multinomial',solver='newton-cg',random_state=0,max_iter=500)
 logreg_TS.fit(X_train, y_train.values.ravel())
 
