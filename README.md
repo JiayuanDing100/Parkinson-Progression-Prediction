@@ -119,6 +119,7 @@ Input: V3, V4, V5 Output: V6
     Mean squared error: 2.58
     Variance score: -14.08
     
+    ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
     ![](https://github.com/JiayuanDing100/Parkinson-Progression-Prediction/blob/master/IMG/linear_regression.png)
 
   
