@@ -119,7 +119,8 @@ Input: V3, V4, V5 Output: V6
     Mean squared error: 2.58
     Variance score: -14.08
     
-    ![](IMG/linear_regression.png)
+    ![](https://github.com/JiayuanDing100/Parkinson-Progression-Prediction/blob/master/IMG/linear_regression.png)
+
   
    
 #### b) Logistic Regression
