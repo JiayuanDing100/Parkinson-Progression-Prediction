@@ -91,8 +91,7 @@ STAGE 5: WHEELCHAIR BOUND OR BEDRIDDEN
 
 
 ## Modeling
-### 1. Linear Regression
-#### a) Experiment 1
+### 1. Baselines
 Data selection: choose patients as input with more than 4 total visit times.
 
 **Input**: the first three visits (Vt-2, Vt-1, Vt) and each visit with around 370 features
@@ -116,3 +115,17 @@ Input: V3, V4, V5 Output: V6
 | 7 | 102 | 408 |
 | 8 | 45  | 225 |
 | Totally  | 522 patients | 1397 input samples |
+#### a) Linear Regression
+    
+   
+#### b) Logistic Regression
+    Five times cross validation: CV score Logistic Regression:(array([0.64539007, 0.71785714, 0.70967742, 0.76702509, 0.75812274]), 0.7196144932844025)
+
+#### c) Random Forest
+    Five times cross validation: CV score RF:(array([0.57446809, 0.79285714, 0.78853047, 0.80645161, 0.79061372]), 0.750584205045625)
+
+#### d) XGBoost
+    Five times cross validation: CV score XGB:(array([0.37943262, 0.79285714, 0.78494624, 0.81362007, 0.80144404]), 0.714460023707129)
+
+
+
