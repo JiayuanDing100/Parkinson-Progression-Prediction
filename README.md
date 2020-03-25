@@ -117,6 +117,7 @@ Input: V3, V4, V5 Output: V6
 | Totally  | 522 patients | 1397 input samples |
 
 #### a) Linear Regression
+<img src="IMG/linear_regression.png" width="600" height="400">
 
 
     Mean squared error: 2.58
