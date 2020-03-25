@@ -115,15 +115,13 @@ Input: V3, V4, V5 Output: V6
 | 7 | 102 | 408 |
 | 8 | 45  | 225 |
 | Totally  | 522 patients | 1397 input samples |
+
 #### a) Linear Regression
+
+
     Mean squared error: 2.58
     Variance score: -14.08
-    
-    ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
-    ![](https://github.com/JiayuanDing100/Parkinson-Progression-Prediction/blob/master/IMG/linear_regression.png)
-
   
-   
 #### b) Logistic Regression
     Five times cross validation: CV score Logistic Regression:(array([0.64539007, 0.71785714, 0.70967742, 0.76702509, 0.75812274]), 0.7196144932844025)
 
