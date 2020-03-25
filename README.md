@@ -116,6 +116,10 @@ Input: V3, V4, V5 Output: V6
 | 8 | 45  | 225 |
 | Totally  | 522 patients | 1397 input samples |
 #### a) Linear Regression
+    Mean squared error: 2.58
+    Variance score: -14.08
+    
+    ![image](https://github.com/JiayuanDing100/Parkinson-Progression-Prediction/blob/master/IMG/linear_regression.png)
     
    
 #### b) Logistic Regression
